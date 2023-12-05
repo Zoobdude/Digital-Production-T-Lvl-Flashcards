@@ -1,0 +1,45 @@
+#separator:tab
+#html:true
+Decomposition	Break a larger problem down into smaller parts
+Break a larger problem down into smaller parts	Decomposition
+Pattern recognition	Determine which elements could be reused, such as user interfaces (if there are multiple users there is no point making the same interface for different groups of users).
+Determine which elements could be reused, such as user interfaces (if there are multiple users there is no point making the same interface for different groups of users).	Pattern recognition
+Generalise patterns (Abstraction)	Take out the extra/unnecessary information
+Take out the extra/unnecessary information	Generalise patterns (Abstraction)
+Algorithms	The logical steps to solve a problem
+The logical steps to solve a problem	Algorithms
+Ways to represent an algorithm	1. Diagrammatically (Flow Chart)<br>2. Pseudo Code<br>3. Actual Programming Language
+1. Diagrammatically (Flow Chart)<br>2. Pseudo Code<br>3. Actual Programming Language	Ways to represent an algorithm
+How do you start and end a sudo code script?	"The word ""BEGIN"" and ""END"""
+"The word ""BEGIN"" and ""END"""	How do you start and end a sudo code script?
+How do you start a flow chart?	"The word ""START"""
+"The word ""START"""	How do you start a flow chart?
+What must be included between shapes in flowcharts?	Arrows
+Arrows	What must be included between shapes in flowcharts?
+How are keywords indicated in sudo code?	With CAPITALS
+With CAPITALS	How are keywords indicated in sudo code?
+"What does this shape represent in a flow chart?<br><img src=""subprogram flowchart.png"">"	A Subroutine
+"What does this shape represent in a flow chart?<br><img src=""start-end-flowchart-symbol.png"">"	Start/End Symbol
+"What does this shape represent in a flow chart?<br><img src=""action-process-flowchart-symbol.png"">"	Process
+"What does this shape represent in a flow chart?<br><img src=""decision-flowchart-symbol.png"">"	Decision
+"What does this shape represent in a flow chart?<br><img src=""imput-output-flowchart-symbol.png"">"	Input/Output
+How is hierarchy&nbsp;(such as content of loops and if statements) shown	With indents
+With indents	How is hierarchy&nbsp;(such as content of loops and if statements) shown
+Type of Error:&nbsp;Semantic	A logic error, the code will still run but it will not give the desired goal however there will be no errors given by the compiler or interpreter
+A logic error, the code will still run but it will not give the desired goal however there will be no errors given by the compiler or interpreter	Type of Error:&nbsp;Semantic
+Types of errors:&nbsp;Syntax	A Grammatical error that will prevent the code from running
+A Grammatical error that will prevent the code from running	Types of errors:&nbsp;Syntax
+Types of control structure	<ul><li>Sequence</li><li>Conditional</li><li>Iteration</li></ul>
+<ul><li>Sequence</li><li>Conditional</li><li>Iteration</li></ul>	Types of control structure
+Sequence (control structure)	Code runs line by line
+Code runs line by line	Sequence (control structure)
+Conditional (control structure) / Conditional Branching	Check if a condition is met (If/Else)
+Check if a condition is met (If/Else)	Conditional (control structure) / Conditional Branching
+Iteration (Control Structure)	Repetition and Loops
+Repetition and Loops	Iteration (Control Structure)
+Arithmetic (Operator)	+, =, /, %, *
++, =, /, %, *	Arithmetic (Operator)
+Relational (Operators)	==. &lt;, &gt;, &gt;=
+==. &lt;, &gt;, &gt;=	Relational (Operators)
+Logical (operators)	AND, NOT, OR
+AND, NOT, OR	Logical (operators)

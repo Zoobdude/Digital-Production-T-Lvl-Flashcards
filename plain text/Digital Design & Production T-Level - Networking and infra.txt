@@ -1,0 +1,95 @@
+#separator:tab
+#html:true
+"Class A (range)<br><sub>In the format x-xxx</sub>
+
+"	
+"Class B (range)<br><sub>In the format xxx-xxx</sub>
+
+"	
+"Class C (range)<br><sub>In the format xxx-xxx</sub>
+
+"	
+"Class D (range)<br><sub>In the format xxx-xxx</sub>
+
+"	
+"Class E (range)<br><sub>In the format xxx-xxx</sub>
+
+"	
+Class A	This class of addresses are used for networks with a large number of total hosts
+This class of addresses are used for networks with a large number of total hosts	Class A
+Class B	This type of address class is used for medium to large sized networks
+This type of address class is used for medium to large sized networks	Class B
+Class C	This type of adress class is for small local area networks (LANs)
+This type of adress class is for small local area networks (LANs)	Class C
+Class D	"These types of addresses are used for ""multicasting""<br><br>Multicasting allows a single host to send a single stream of data to thousands of hosts across the&nbsp;Internet at the same time. It is often used for audio and video streaming, such as IP-based cable TV&nbsp;networks"
+"These types of addresses are used for ""multicasting""<br><br>Multicasting allows a single host to send a single stream of data to thousands of hosts across the&nbsp;Internet at the same time. It is often used for audio and video streaming, such as IP-based cable TV&nbsp;networks"	Class D
+Class E (IP adress range)	This type of address class are not allocated to hosts and are not available for general use. These are reserved&nbsp;for research purposes.
+This type of address class are not allocated to hosts and are not available for general use. These are reserved&nbsp;for research purposes.	Class E (IP adress range)
+DHCP	Dynamic Host Configuration Protocol​
+DNS	Domain Name System protocol​
+FTP	File Transfer Protocol​
+HTTP	Hyper Text Transfer Protocol​
+IMAP and IMAP4	Internet Message Access Protocol (version 4)​
+POP and POP3	Post Office Protocol (version 3)​
+SMTP	Simple Mail Transfer Protocol​
+Telnet	Terminal emulation protocol​
+SNMP	Simple Network Management Protocol​
+"Application layer protocol for transferring files over a TCP network. Allows browsing, uploading and downloading files. Authenticates using usernames and passwords.
+
+"	
+"Hierarchical and decentralized naming system for computers, services and other resources on the internet. Translates human-readable domain names to IP addresses.
+
+"	
+"Network protocol that automatically assigns IP addresses and other network configuration parameters to devices on a network. Enables dynamic addressing and network configuration.
+
+"	
+"Internet protocol that allows email clients to access and manipulate messages stored on a server. Allows organizing emails into folders. Keep messages synchronized across devices.
+
+"	
+"Protocol for receiving emails from a remote server. Downloads entire messages to a local client. Deleted from server after downloading. Good for intermittent connections.
+
+"	
+"Application layer protocol for sending email messages between servers. Uses TCP connections to transfer email data in plaintext.
+
+"	
+"Application layer protocol for interactive text-based sessions over a network. Provides bidirectional communication for terminal emulation. No encryption, so considered insecure.
+
+"	
+"Protocol for monitoring and managing network devices like routers, switches, printers etc. Uses UDP for agent-to-manager communications.
+
+"	
+"Application layer protocol used for client-server communication on the web. Clients make requests, servers respond with resources. Uses TCP as the transport protocol.
+
+"	
+"How many layers are there in the OSI model?
+
+"	
+"What is layer 7 of the OSI model?
+
+"	
+"What is layer 6 of the OSI model?
+
+"	
+"What is layer 5 of the OSI model?
+
+"	
+"What is layer 4 of the OSI model?
+
+"	
+"What is layer 3 of the OSI model?
+
+"	
+"What is layer 2 of the OSI model?
+
+"	
+"What is layer 1 of the OSI model?
+
+"	
+What does the <b>application</b> <b>layer</b> do in the OSI model	It is the actual software used by humans such as:<br><ul><li>Discord</li><li>Google Chrome/Opera (Web browsers)</li><li>Outlook/Thunderbird (Email clients)</li><li>Spotify desktop (any internet connected apps)</li></ul>
+What does the <b>presentation</b> <b>layer</b> do in the OSI model	It prepares data for the application layer to read and session layer to transmit by:<br><ul><li>Compressing/decompressing data</li><li>Encrypting/decrypting data</li></ul><div>SSL (which encrypts data between webserver and browser) is an example of a presentation layer protocol.</div>
+What does the&nbsp;<b>session</b>&nbsp;<b>layer</b>&nbsp;do in the OSI model	The session layer creates, maintains and ends connections.<br><br>E.g. when joining a minecraft server, the session layer contacts the server informing it you wish to join, ensures it is maintained while connected and closes it when you disconnect from the server
+What does the&nbsp;<b>transport</b>&nbsp;<b>layer</b>&nbsp;do in the OSI model	"<ul><li>The transport layer acts as the link between the ""Host Layers"" and ""Media Layers"".</li><li>The transport layer splits data to be sent into packets and reassembles packets that a recived</li></ul>&nbsp;TCP and UDP are Transport layer protocols<br><br>"
+What does the&nbsp;<b>network</b>&nbsp;<b>layer</b>&nbsp;do in the OSI model	<ul><li>Responsible for deciding the route each packet will take from source to destination (routing)</li><li>Attaches a header to each packet containing: destination IP, total size and a count of how many networks the packet has traveled through</li></ul><div>The IP (Internet protocol) is one</div>
+What does the&nbsp;<b>data link</b>&nbsp;<b>layer</b>&nbsp;do in the OSI model	<ul><li>Handles communication between two nodes, for your home computer this would be between your computer and network hub/router.</li><li>When sending: It prepares the packets for the 1st layer ready for the pysical hardware by encapsulating packets into frames</li><li>When receiving: It strips the packets back out of thease frames passing them to the 3rd layer</li><li>Attaches the source and destination MAC address (unique device identifier that doesn't change).</li><li>Notifies other layers if transmit or receive errors</li></ul>
+What does the <b>physical</b>&nbsp;<b>layer</b>&nbsp;do in the OSI model	<ul><li>Transports the data electrically over cabes; optically over fibre optic or through electro-magnetc radiation as radio waves&nbsp;</li></ul>
+What is <b>data framing</b> on the Data Link Layer?	<div><div>Encapsulating packets into frames with three sections</div><div><br></div><div>Header:</div><ul><li>The source and destination MAC address</li><li>Error checking checksum for the payload</li></ul><div><br></div></div><div>Payload:</div><div><ul><li>The actual data to be sent (from upper OSI layers)</li></ul><div>Trailer:</div></div><div><ul><li>Holds another checksum for the actual frame ensuring it is not changed in transit</li></ul></div>

@@ -1,0 +1,12 @@
+#separator:tab
+#html:true
+"What does the C in the C.I.A triad stand for?
+
+"	
+"What does the I in the C.I.A triad stand for?
+
+"	
+"What does the A in the C.I.A triad stand for?
+
+"	
+What is the CIA triad?	The CIA triad is a common model that forms the basis for the development of security systems. They are used for finding vulnerabilities and methods for creating solutions.

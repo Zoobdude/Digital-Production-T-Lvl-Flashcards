@@ -1,0 +1,17 @@
+#separator:tab
+#html:true
+Artificial Narrow Intelligence	Only allowed to do a certain activity such as: a chatbot for advising on the college's course.<br><ul><li>Pre-defined<br></li><li>Pre-determined</li><li>Limited capabilities</li></ul>
+Only allowed to do a certain activity such as: a chatbot for advising on the college's course.<br><ul><li>Pre-defined<br></li><li>Pre-determined</li><li>Limited capabilities</li></ul>	Artificial Narrow Intelligence
+Artificial Super Intelligence	Surpassing Human terms of intelligence.<br><ul><li>Could have a human face</li><li>Carry out complex tasks</li><li>More capable than a human in every single way</li></ul>
+Surpassing Human terms of intelligence.<br><ul><li>Could have a human face</li><li>Carry out complex tasks</li><li>More capable than a human in every single way</li></ul>	Artificial Super Intelligence
+Artificial General Intelligence	A clever AI that has can think for itself, however it doesn't know very much about humans.
+A clever AI that has can think for itself, however it doesn't know very much about humans.	Artificial General Intelligence
+"ANI<br><sub>(stands for?)</sub>
+
+"	
+"AGI<br><sub>(Stands for?)</sub>
+
+"	
+"ASI<br><sub>(Stands for?)</sub>
+
+"	
