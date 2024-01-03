@@ -1,11 +1,115 @@
 #separator:tab
 #html:true
+Decomposition	Break a larger problem down into smaller parts
+Break a larger problem down into smaller parts	Decomposition
+Pattern recognition	Determine which elements could be reused, such as user interfaces (if there are multiple users there is no point making the same interface for different groups of users).
+Determine which elements could be reused, such as user interfaces (if there are multiple users there is no point making the same interface for different groups of users).	Pattern recognition
+Generalise patterns (Abstraction)	Take out the extra/unnecessary information
+Take out the extra/unnecessary information	Generalise patterns (Abstraction)
+Algorithms	The logical steps to solve a problem
+The logical steps to solve a problem	Algorithms
+Ways to represent an algorithm	1. Diagrammatically (Flow Chart)<br>2. Pseudo Code<br>3. Actual Programming Language
+1. Diagrammatically (Flow Chart)<br>2. Pseudo Code<br>3. Actual Programming Language	Ways to represent an algorithm
+How do you start and end a sudo code script?	"The word ""BEGIN"" and ""END"""
+"The word ""BEGIN"" and ""END"""	How do you start and end a sudo code script?
+How do you start a flow chart?	"The word ""START"""
+"The word ""START"""	How do you start a flow chart?
+What must be included between shapes in flowcharts?	Arrows
+Arrows	What must be included between shapes in flowcharts?
+How are keywords indicated in sudo code?	With CAPITALS
+With CAPITALS	How are keywords indicated in sudo code?
+"What does this shape represent in a flow chart?<br><img src=""subprogram flowchart.png"">"	A Subroutine
+"What does this shape represent in a flow chart?<br><img src=""start-end-flowchart-symbol.png"">"	Start/End Symbol
+"What does this shape represent in a flow chart?<br><img src=""action-process-flowchart-symbol.png"">"	Process
+"What does this shape represent in a flow chart?<br><img src=""decision-flowchart-symbol.png"">"	Decision
+"What does this shape represent in a flow chart?<br><img src=""imput-output-flowchart-symbol.png"">"	Input/Output
+How is hierarchy&nbsp;(such as content of loops and if statements) shown	With indents
+With indents	How is hierarchy&nbsp;(such as content of loops and if statements) shown
+Type of Error:&nbsp;Semantic	A logic error, the code will still run but it will not give the desired goal however there will be no errors given by the compiler or interpreter
+A logic error, the code will still run but it will not give the desired goal however there will be no errors given by the compiler or interpreter	Type of Error:&nbsp;Semantic
+Types of errors:&nbsp;Syntax	A Grammatical error that will prevent the code from running
+A Grammatical error that will prevent the code from running	Types of errors:&nbsp;Syntax
+Types of control structure	<ul><li>Sequence</li><li>Conditional</li><li>Iteration</li></ul>
+<ul><li>Sequence</li><li>Conditional</li><li>Iteration</li></ul>	Types of control structure
+Sequence (control structure)	Code runs line by line
+Code runs line by line	Sequence (control structure)
+Conditional (control structure) / Conditional Branching	Check if a condition is met (If/Else)
+Check if a condition is met (If/Else)	Conditional (control structure) / Conditional Branching
+Iteration (Control Structure)	Repetition and Loops
+Repetition and Loops	Iteration (Control Structure)
+Arithmetic (Operator)	+, =, /, %, *
++, =, /, %, *	Arithmetic (Operator)
+Relational (Operators)	==. &lt;, &gt;, &gt;=
+==. &lt;, &gt;, &gt;=	Relational (Operators)
+Logical (operators)	AND, NOT, OR
+AND, NOT, OR	Logical (operators)
+"Class A (range)<br><sub>In the format x-xxx</sub>
+
+"	
+"Class B (range)<br><sub>In the format xxx-xxx</sub>
+
+"	
+"Class C (range)<br><sub>In the format xxx-xxx</sub>
+
+"	
+"Class D (range)<br><sub>In the format xxx-xxx</sub>
+
+"	
+"Class E (range)<br><sub>In the format xxx-xxx</sub>
+
+"	
+Class A	This class of addresses are used for networks with a large number of total hosts
+This class of addresses are used for networks with a large number of total hosts	Class A
+Class B	This type of address class is used for medium to large sized networks
+This type of address class is used for medium to large sized networks	Class B
+Class C	This type of adress class is for small local area networks (LANs)
+This type of adress class is for small local area networks (LANs)	Class C
+Class D	"These types of addresses are used for ""multicasting""<br><br>Multicasting allows a single host to send a single stream of data to thousands of hosts across the&nbsp;Internet at the same time. It is often used for audio and video streaming, such as IP-based cable TV&nbsp;networks"
+"These types of addresses are used for ""multicasting""<br><br>Multicasting allows a single host to send a single stream of data to thousands of hosts across the&nbsp;Internet at the same time. It is often used for audio and video streaming, such as IP-based cable TV&nbsp;networks"	Class D
+Class E (IP adress range)	This type of address class are not allocated to hosts and are not available for general use. These are reserved&nbsp;for research purposes.
+This type of address class are not allocated to hosts and are not available for general use. These are reserved&nbsp;for research purposes.	Class E (IP adress range)
+DHCP	Dynamic Host Configuration Protocol​
+DNS	Domain Name System protocol​
+FTP	File Transfer Protocol​
+HTTP	Hyper Text Transfer Protocol​
+IMAP and IMAP4	Internet Message Access Protocol (version 4)​
+POP and POP3	Post Office Protocol (version 3)​
+SMTP	Simple Mail Transfer Protocol​
+Telnet	Terminal emulation protocol​
+SNMP	Simple Network Management Protocol​
+"Application layer protocol for transferring files over a TCP network. Allows browsing, uploading and downloading files. Authenticates using usernames and passwords.
+
+"	
+"Hierarchical and decentralized naming system for computers, services and other resources on the internet. Translates human-readable domain names to IP addresses.
+
+"	
+"Network protocol that automatically assigns IP addresses and other network configuration parameters to devices on a network. Enables dynamic addressing and network configuration.
+
+"	
+"Internet protocol that allows email clients to access and manipulate messages stored on a server. Allows organizing emails into folders. Keep messages synchronized across devices.
+
+"	
+"Protocol for receiving emails from a remote server. Downloads entire messages to a local client. Deleted from server after downloading. Good for intermittent connections.
+
+"	
+"Application layer protocol for sending email messages between servers. Uses TCP connections to transfer email data in plaintext.
+
+"	
+"Application layer protocol for interactive text-based sessions over a network. Provides bidirectional communication for terminal emulation. No encryption, so considered insecure.
+
+"	
+"Protocol for monitoring and managing network devices like routers, switches, printers etc. Uses UDP for agent-to-manager communications.
+
+"	
+"Application layer protocol used for client-server communication on the web. Clients make requests, servers respond with resources. Uses TCP as the transport protocol.
+
+"	
 Artificial Narrow Intelligence	Only allowed to do a certain activity such as: a chatbot for advising on the college's course.<br><ul><li>Pre-defined<br></li><li>Pre-determined</li><li>Limited capabilities</li></ul>
 Only allowed to do a certain activity such as: a chatbot for advising on the college's course.<br><ul><li>Pre-defined<br></li><li>Pre-determined</li><li>Limited capabilities</li></ul>	Artificial Narrow Intelligence
 Artificial Super Intelligence	Surpassing Human terms of intelligence.<br><ul><li>Could have a human face</li><li>Carry out complex tasks</li><li>More capable than a human in every single way</li></ul>
 Surpassing Human terms of intelligence.<br><ul><li>Could have a human face</li><li>Carry out complex tasks</li><li>More capable than a human in every single way</li></ul>	Artificial Super Intelligence
-Artificial General Intelligence	A clever AI that has can think for itself, however it doesn't know very much about humans.
-A clever AI that has can think for itself, however it doesn't know very much about humans.	Artificial General Intelligence
+Artificial General Intelligence	An autonomous and intelligent AI with the ability to think independently, but lacking comprehensive knowledge about humans.
+An autonomous and intelligent AI with the ability to think independently, but lacking comprehensive knowledge about humans.	Artificial General Intelligence
 "ANI<br><sub>(stands for?)</sub>
 
 "	
@@ -15,3 +119,40 @@ A clever AI that has can think for itself, however it doesn't know very much abo
 "ASI<br><sub>(Stands for?)</sub>
 
 "	
+"What does the C in the C.I.A triad stand for?
+
+"	
+"What does the I in the C.I.A triad stand for?
+
+"	
+"What does the A in the C.I.A triad stand for?
+
+"	
+What is the CIA triad?	The CIA triad is a common model that forms the basis for the development of security systems. They are used for finding vulnerabilities and methods for creating solutions.
+"How many layers are there in the OSI model?
+
+"	
+"What is layer 7 of the OSI model?
+
+"	
+"What is layer 6 of the OSI model?
+
+"	
+"What is layer 5 of the OSI model?
+
+"	
+"What is layer 4 of the OSI model?
+
+"	
+"What is layer 3 of the OSI model?
+
+"	
+"What is layer 2 of the OSI model?
+
+"	
+"What is layer 1 of the OSI model?
+
+"	
+What does the <b>application</b> <b>layer</b> do in the OSI model	It is the actual software used by humans such as:<br><ul><li>Discord</li><li>Google Chrome/Opera (Web browsers)</li><li>Outlook/Thunderbird (Email clients)</li><li>Spotify desktop (any internet connected apps)</li></ul>
+What does the <b>presentation</b> <b>layer</b> do in the OSI model	It prepares data for the application layer to read and session layer to transmit by:<br><ul><li>Compressing/decompressing data</li><li>Encrypting/decrypting data</li></ul><div>SSL (which encrypts data between webserver and browser) is an example of a presentation layer protocol.</div>
+What does the&nbsp;<b>session</b>&nbsp;<b>layer</b>&nbsp;do in the OSI model	The session layer creates, maintains and ends connections.<br><br>E.g. when joining a minecraft server, the session layer contacts the server informing it you wish to join, ensures it is maintained while connected and closes it when you disconnect from the server
