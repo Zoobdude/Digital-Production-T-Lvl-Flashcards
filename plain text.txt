@@ -1,0 +1,118 @@
+#separator:tab
+#html:true
+#tags column:3
+Decomposition	Break a larger problem down into smaller parts	
+Pattern recognition	Determine which elements could be reused, such as user interfaces (if there are multiple users there is no point making the same interface for different groups of users).	
+Generalise patterns (Abstraction)	Take out the extra/unnecessary information	
+Algorithms	The logical steps to solve a problem	
+Ways to represent an algorithm	1. Diagrammatically (Flow Chart)<br>2. Pseudo Code<br>3. Actual Programming Language	
+How do you start and end a sudo code script?	"The word ""BEGIN"" and ""END"""	
+How do you start a flow chart?	"The word ""START"""	
+What must be included between shapes in flowcharts?	Arrows	
+How are keywords indicated in sudo code?	With CAPITALS	
+"What does this shape represent in a flow chart?<br><img src=""subprogram flowchart.png"">"	A Subroutine	
+"What does this shape represent in a flow chart?<br><img src=""start-end-flowchart-symbol.png"">"	Start/End Symbol	
+"What does this shape represent in a flow chart?<br><img src=""action-process-flowchart-symbol.png"">"	Process	
+"What does this shape represent in a flow chart?<br><img src=""decision-flowchart-symbol.png"">"	Decision	
+"What does this shape represent in a flow chart?<br><img src=""imput-output-flowchart-symbol.png"">"	Input/Output	
+How is hierarchy&nbsp;(such as content of loops and if statements) shown	With indents	
+Type of Error:&nbsp;Semantic	A logic error, the code will still run but it will not give the desired goal however there will be no errors given by the compiler or interpreter	
+Types of errors:&nbsp;Syntax	A Grammatical error that will prevent the code from running	
+Types of control structure	<ul><li>Sequence</li><li>Conditional</li><li>Iteration</li></ul>	
+Sequence (control structure)	Code runs line by line	control-sturucture
+Conditional (control structure) / Conditional Branching	Check if a condition is met (If/Else)	control-sturucture
+Iteration (Control Structure)	Repetition and Loops	control-sturucture
+Arithmetic (Operator)	+, =, /, %, *	operators
+Relational (Operators)	==. &lt;, &gt;, &gt;=	operators
+Logical (operators)	AND, NOT, OR	operators
+Class A (range)<br><sub>In the format x-xxx</sub>	0-127	ip-address-ranges
+Class B (range)<br><sub>In the format xxx-xxx</sub>	128-191	ip-address-ranges
+Class C (range)<br><sub>In the format xxx-xxx</sub>	192-223	ip-address-ranges
+Class D (range)<br><sub>In the format xxx-xxx</sub>	224-239	ip-address-ranges
+Class E (range)<br><sub>In the format xxx-xxx</sub>	240-255	ip-address-ranges
+Class A	This class of addresses are used for networks with a large number of total hosts	ip-address-ranges
+Class B	This type of address class is used for medium to large sized networks	ip-address-ranges
+Class C	This type of adress class is for small local area networks (LANs)	ip-address-ranges
+Class D	"These types of addresses are used for ""multicasting""<br><br>Multicasting allows a single host to send a single stream of data to thousands of hosts across the&nbsp;Internet at the same time. It is often used for audio and video streaming, such as IP-based cable TV&nbsp;networks"	ip-address-ranges
+Class E (IP adress range)	This type of address class are not allocated to hosts and are not available for general use. These are reserved&nbsp;for research purposes.	ip-address-ranges
+DHCP	Dynamic Host Configuration Protocol​	network-protocols
+DNS	Domain Name System protocol​	network-protocols
+FTP	File Transfer Protocol​	network-protocols
+HTTP	Hyper Text Transfer Protocol​	network-protocols
+IMAP and IMAP4	Internet Message Access Protocol (version 4)​	network-protocols
+POP and POP3	Post Office Protocol (version 3)​	network-protocols
+SMTP	Simple Mail Transfer Protocol​	network-protocols
+Telnet	Terminal emulation protocol​	network-protocols
+SNMP	Simple Network Management Protocol​	network-protocols
+Application layer protocol for transferring files over a TCP network. Allows browsing, uploading and downloading files. Authenticates using usernames and passwords.	FTP	network-protocols
+Hierarchical and decentralized naming system for computers, services and other resources on the internet. Translates human-readable domain names to IP addresses.	DNS	network-protocols
+Network protocol that automatically assigns IP addresses and other network configuration parameters to devices on a network. Enables dynamic addressing and network configuration.	DHCP	network-protocols
+Internet protocol that allows email clients to access and manipulate messages stored on a server. Allows organizing emails into folders. Keep messages synchronized across devices.	IMAP	network-protocols
+Protocol for receiving emails from a remote server. Downloads entire messages to a local client. Deleted from server after downloading. Good for intermittent connections.	POP	network-protocols
+Application layer protocol for sending email messages between servers. Uses TCP connections to transfer email data in plaintext.	SMTP	network-protocols
+Application layer protocol for interactive text-based sessions over a network. Provides bidirectional communication for terminal emulation. No encryption, so considered insecure.	Telnet	network-protocols
+Protocol for monitoring and managing network devices like routers, switches, printers etc. Uses UDP for agent-to-manager communications.	SNMP&nbsp;	network-protocols
+Application layer protocol used for client-server communication on the web. Clients make requests, servers respond with resources. Uses TCP as the transport protocol.	HTTP	network-protocols
+Artificial Narrow Intelligence	Only allowed to do a certain activity such as: a chatbot for advising on the college's course.<br><ul><li>Pre-defined<br></li><li>Pre-determined</li><li>Limited capabilities</li></ul>	AI
+Artificial Super Intelligence	Surpassing Human terms of intelligence.<br><ul><li>Could have a human face</li><li>Carry out complex tasks</li><li>More capable than a human in every single way</li></ul>	AI
+Artificial General Intelligence	A clever AI that has can think for itself, however it doesn't know very much about humans.	AI
+ANI<br><sub>(stands for?)</sub>	Artificial Narrow Intelligence	AI
+AGI<br><sub>(Stands for?)</sub>	Artificial General Intelligence	AI
+ASI<br><sub>(Stands for?)</sub>	Artificial Super Intelligence	AI
+What does the C in the C.I.A triad stand for?	Confidentiality	CIA
+What does the I in the C.I.A triad stand for?	Integrity	CIA
+What does the A in the C.I.A triad stand for?	Availability or Authentication	CIA
+What is the CIA triad?	The CIA triad is a common model that forms the basis for the development of security systems. They are used for finding vulnerabilities and methods for creating solutions.	CIA
+How many layers are there in the OSI model?	7	OSI-model
+What is layer 7 of the OSI model?	Application	OSI-model
+What is layer 6 of the OSI model?	Presentation	OSI-model
+What is layer 5 of the OSI model?	Session	OSI-model
+What is layer 4 of the OSI model?	Transport	OSI-model
+What is layer 3 of the OSI model?	Network	OSI-model
+What is layer 2 of the OSI model?	Data-Link	OSI-model
+What is layer 1 of the OSI model?	Physical	OSI-model
+What does the <b>application</b> <b>layer</b> do in the OSI model	It is the actual software used by humans such as:<br><ul><li>Discord</li><li>Google Chrome/Opera (Web browsers)</li><li>Outlook/Thunderbird (Email clients)</li><li>Spotify desktop (any internet connected apps)</li></ul>	OSI-model
+What does the <b>presentation</b> <b>layer</b> do in the OSI model	It prepares data for the application layer to read and session layer to transmit by:<br><ul><li>Compressing/decompressing data</li><li>Encrypting/decrypting data</li></ul><div>SSL (which encrypts data between webserver and browser) is an example of a presentation layer protocol.</div>	OSI-model
+What does the&nbsp;<b>session</b>&nbsp;<b>layer</b>&nbsp;do in the OSI model	The session layer creates, maintains and ends connections.<br><br>E.g. when joining a minecraft server, the session layer contacts the server informing it you wish to join, ensures it is maintained while connected and closes it when you disconnect from the server	OSI-model
+What does the&nbsp;<b>transport</b>&nbsp;<b>layer</b>&nbsp;do in the OSI model	"<ul><li>The transport layer acts as the link between the ""Host Layers"" and ""Media Layers"".</li><li>The transport layer splits data to be sent into packets and reassembles packets that a recived</li></ul>&nbsp;TCP and UDP are Transport layer protocols<br><br>"	OSI-model
+What does the&nbsp;<b>network</b>&nbsp;<b>layer</b>&nbsp;do in the OSI model	<ul><li>Responsible for deciding the route each packet will take from source to destination (routing)</li><li>Attaches a header to each packet containing: destination IP, total size and a count of how many networks the packet has traveled through</li></ul><div>The IP (Internet protocol) is one</div>	OSI-model
+What does the&nbsp;<b>data link</b>&nbsp;<b>layer</b>&nbsp;do in the OSI model	<ul><li>Handles communication between two nodes, for your home computer this would be between your computer and network hub/router.</li><li>When sending: It prepares the packets for the 1st layer ready for the pysical hardware by encapsulating packets into frames</li><li>When receiving: It strips the packets back out of thease frames passing them to the 3rd layer</li><li>Attaches the source and destination MAC address (unique device identifier that doesn't change).</li><li>Notifies other layers if transmit or receive errors</li></ul>	OSI-model
+What does the <b>physical</b>&nbsp;<b>layer</b>&nbsp;do in the OSI model	<ul><li>Transports the data electrically over cabes; optically over fibre optic or through electro-magnetc radiation as radio waves&nbsp;</li></ul>	OSI-model
+What is <b>data framing</b> on the Data Link Layer?	<div><div>Encapsulating packets into frames with three sections</div><div><br></div><div>Header:</div><ul><li>The source and destination MAC address</li><li>Error checking checksum for the payload</li></ul><div><br></div></div><div>Payload:</div><div><ul><li>The actual data to be sent (from upper OSI layers)</li></ul><div>Trailer:</div></div><div><ul><li>Holds another checksum for the actual frame ensuring it is not changed in transit</li></ul></div>	OSI-model
+Unauthorised Access	<b>When an idividual gains access to material or resources without permission.</b><br>This includes gaining access to:&nbsp;organization's data, networks, endpoints, applications or devices.	Computer-misuse-act
+In which year was the Computer Misuse Act created in?	1990	Computer-misuse-act
+Why was the Computer Misuse Act introduced?	Two hackers gained access to the mailbox&nbsp;of Prince Phillip after obtaining the password of an I.T. engineer at BT. They were initially convicted under the Forgery and Counterfeiting Act 1981 but as their actions were not for finacial gain ultimately overturned.	Computer-misuse-act
+Unauthorised modification	Modification, alteration or deletion of a progam or data without permission	Computer-misuse-act
+Computer system definition	Any device or a group of interconnected or related devices, one or more of which, pursuant to a program, performs automatic processing of data.	Computer-misuse-act
+Why is the definition of a computer not included in the computer misuse act?	Due to rapid changes in technology the definition would soon become out of date and need to be updated too frequently.	Computer-misuse-act
+Computer data definition	Any representation of facts, information or concepts in a form sutible for processing in a computer system.	Computer-misuse-act
+Real-Time OS	Installed in special purpose embeded systems like robots, cars and modems.	Types-of-os
+Single-user and single-task OS	Installed on single-user devices like phones	Types-of-os
+Single user and multi-task OS	Installed on contemporary personal computers	Types-of-os
+Multi-user OS	Installed in network environments where many users have to share resources. Server OSs are examples of multi-user operating systems.	Types-of-os
+Network OS	Used to share resources such as files or printers on a network.	Types-of-os
+Internet/Web OS	Designed to run in the browser that is online	Types-of-os
+Mobile OS	Designed to run on mobile, tablets and other mobile devices.&nbsp;	Types-of-os
+What does Integrity mean in the C.I.A triad	Integrity is ensuring that the data is accurate.	CIA
+What does Availability mean in the C.I.A triad&nbsp;	Information should be consistantly and readily available for authorised parties.	CIA
+What is phase 1 of a Project Lifecycle	Planning<br>	Project-lifecycle
+What is phase 2 of a Project Lifecycle	Execution	Project-lifecycle
+What is phase 3 of a Project Lifecycle	Testing	Project-lifecycle
+What is phase 4 of a Project Lifecycle	Closing	Project-lifecycle
+What happens in the Planning stage of the Project Lifecycle	1. Initiating<br>2. Planning	Project-lifecycle
+What happens in the Execution stage of the Project Lifecycle	1. Executing<br>2. Monitoring &amp; Controlling	Project-lifecycle
+What happens in the Testing stage of the Project Lifecycle	1. Normal testing - Entering normal data&nbsp;<br>2. Error testing - Entering intentionaly incorrect data<br>3. Extreme tests - Entering technically correct, but weird (often very high or low) data	Project-lifecycle
+What happens in the Closing phase of project management?	1. Confirm that the deliverables are to the satisfaction of the project sponsor<br>2. Communicate the status to all participants and stake holders	Project-lifecycle
+What is the Waterfall type of Project Lifecycle	"<ul><li>Very easy to understand and implement</li><li>Cheapest as the project is usually the shortest</li><li>The waterfall methodology does not allow you to go back</li><li>Popular in the 60s and early 70s</li><li>Not so popular now as people realise things can change and things can't always be done in order.</li></ul><br>Waterfall diagram:<br><img alt=""Waterfall Methodology: Project Management | Adobe Workfront"" src=""media_1576e188070800895e8cf8e74a4a2582b9b20caaf.png"" style=""float: left;""><br>"	Project-lifecycle
+What is the AGILE/SDLC type of Project Lifecycle	"<ul><li>Based upon the Waterall methodology</li><li>Never ending, continues to loop as requirements change over time</li><li>Can overcomplicate simple,&nbsp;straightforward projects</li><li>Roughly 50 or 40 years old</li><li>The basis for more recent&nbsp;methodologies</li></ul><div>Waterfall diagram:<br></div><div><img alt=""Agile in SDLC | Characteristics and Functionality of Agile in SDLC"" src=""Agile-in-SDLC.png""><br></div>"	Project-lifecycle
+What is the RAD type of Project Lifecycle	"<ul><li>Built upon the AGILE methodology</li><li>Alows you to go back and make changes unlike the waterfall methodology</li><li>Continually build upon a prototype until it meets requirements</li><li>A new project is then started when changes need to be made</li></ul><div>RAD diagram:</div><div><img alt=""A guide to the Rapid application development | Thirdrock Techkno"" src=""rapid-application-development.jpeg""><br></div>"	Project-lifecycle
+Metadata classificaitons - Administrative	<ul><li>Helps to provide instructions about the file on how to mage a file</li><li>Information such as: Resource type, permissions/restrictions and when and how it was created.</li><li>Sometimes this includes access rights</li></ul>	metadata-classifications
+Metadata classificaitons - Descriptive	<ul><li>Used for discovery and identication</li><li>Includes: title, abstract, author, keywords.</li></ul>	metadata-classifications
+Metadata classificaitons - Structual	<ul><li>Relates to the design and specification of data structures</li><li>Used to describe: Types, versions, relationships and other characteristics or digital assets.</li></ul>	metadata-classifications
+Standard Permission types	<ul><li>Full control</li><li>Modify</li><li>Read &amp; Execute</li><li>List Folder Contents</li><li>Read</li><li>Write</li></ul>	permission-types
+REST	The JSON data structure is used. Web services API. Uses in modern web applications.	API-Protocols
+SOAP definiton	Uses the XML communication structure. Well-defined standards for security and transactions. It was the first to standardise how applications could handle resources over network connections.	API-Protocols
+SOAP (stands for)	Simple Object Access Protocol	API-Protocols
+REST (stands for)	Representational State Transfer	API-Protocols
+RPC protocol (stands for)	Remote Procedural Call	API-Protocols
+RPC (definition)	Earliest and most basic APIs. The RPC's protocol aimed to allow a client to run code on a server. It is now defunct and no longer used.	API-Protocols
